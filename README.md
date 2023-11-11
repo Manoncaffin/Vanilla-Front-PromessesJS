@@ -1,4 +1,4 @@
-# Vanilla-01-PromessesJS
+# Vanilla-Front-PromessesJS
 
 # Promesse JS
 
